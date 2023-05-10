@@ -1,0 +1,2 @@
+Este es un archivo de ejemplo
+asumiendo que maria crea un archivo en su rama
