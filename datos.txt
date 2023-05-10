@@ -1,0 +1,3 @@
+juan perez
+telefono 8345678
+correo juan@gmail.com
